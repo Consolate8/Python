@@ -10,7 +10,7 @@ background = pygame.image.load('asset/pelouse.jpg')
 
 running = True
 
-#boucle tant que cette condition est vraie
+#boucle tant que cette condition est vra
 while running:
 
       # applique l'arriere plan de notre jeu
